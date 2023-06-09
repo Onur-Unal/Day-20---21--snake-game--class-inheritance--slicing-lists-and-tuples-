@@ -48,6 +48,3 @@ while game_is_on:
 screen.exitonclick()
 
 # for square_num in range(start=2, stop=0, step=-1):  # This range func comes from C language won't work in python
-#     new_x = snake[square_num - 1].xcor()
-#     new_y = snake[square_num - 1].ycor()
-#     snake[square_num].goto(new_x, new_y)
